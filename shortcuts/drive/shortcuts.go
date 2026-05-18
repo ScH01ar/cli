@@ -25,6 +25,7 @@ func Shortcuts() []common.Shortcut {
 		DriveStatus,
 		DrivePush,
 		DrivePull,
+		DriveSync,
 		DriveTaskResult,
 		DriveApplyPermission,
 		DriveSearch,
